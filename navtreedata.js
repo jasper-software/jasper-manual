@@ -3,6 +3,7 @@ var NAVTREE =
   [ "JasPer", "index.html", [
     [ "Reference Manual (Version 2.0.21)", "index.html", [
       [ "Introduction", "index.html#intro", null ],
+      [ "News", "index.html#news", null ],
       [ "License", "index.html#license", null ],
       [ "Reporting Bugs", "index.html#bugs", null ]
     ] ],
@@ -11,11 +12,15 @@ var NAVTREE =
     [ "Known Bugs", "known_bugs.html", null ],
     [ "Todo List", "todo.html", null ],
     [ "Modules", "modules.html", "modules" ],
+    [ "Classes", "annotated.html", [
+      [ "Class List", "annotated.html", "annotated_dup" ]
+    ] ],
     [ "Files", null, [
       [ "File List", "files.html", "files" ],
       [ "File Members", "globals.html", [
         [ "All", "globals.html", null ],
         [ "Functions", "globals_func.html", null ],
+        [ "Typedefs", "globals_type.html", null ],
         [ "Macros", "globals_defs.html", null ]
       ] ]
     ] ]
@@ -24,7 +29,8 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"bmp__cod_8h_source.html"
+"annotated.html",
+"jpc__enc_8h_source.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
