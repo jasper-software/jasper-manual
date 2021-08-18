@@ -1,0 +1,26 @@
+var jas__seq_8h =
+[
+    [ "jas_seq2d_t", "group__seq.html#ga5abdda95cd787faa926dcf8334886b68", null ],
+    [ "jas_seq_t", "group__seq.html#ga32b41a89cb9ebd46d8339ff23ef794a8", null ],
+    [ "jas_matrix_asl", "group__seq.html#ga544ccd196205bda593382aad693e4d8a", null ],
+    [ "jas_matrix_asr", "group__seq.html#gabd57feed528a1d8d913dabd63d34ce3f", null ],
+    [ "jas_matrix_bindcol", "group__seq.html#gad520579ff76f0abf5c0f3c8eb8bc20af", null ],
+    [ "jas_matrix_bindrow", "group__seq.html#gaa2125871156908833ac79095000a9354", null ],
+    [ "jas_matrix_bindsub", "group__seq.html#ga021b3bd753573db2f132de4c2abea353", null ],
+    [ "jas_matrix_clip", "group__seq.html#ga234d401a6ce36d1d2e82067184c496de", null ],
+    [ "jas_matrix_cmp", "group__seq.html#gaca7e1613889e83e29667f443923e6d77", null ],
+    [ "jas_matrix_create", "group__seq.html#ga29d7bba8c8b16002b0a6791a6b01efe4", null ],
+    [ "jas_matrix_destroy", "group__seq.html#gace242010aaa06916c34233ad929eea18", null ],
+    [ "jas_matrix_divpow2", "group__seq.html#gaf7c517420ae991e263e0752de73f25fd", null ],
+    [ "jas_matrix_get", "group__seq.html#ga86c14d2b15f0605ea72ccb73d498a12b", null ],
+    [ "jas_matrix_getref", "group__seq.html#gac4164493c76d4fcb0b3707f0acf244ed", null ],
+    [ "jas_matrix_getv", "group__seq.html#gafe7a2f3fc3055f08f691c10d22dc96a5", null ],
+    [ "jas_matrix_numcols", "group__seq.html#ga737d4262a62cfee1096d48301f847981", null ],
+    [ "jas_matrix_numrows", "group__seq.html#ga98d32732b1b232d6aa0334127d879654", null ],
+    [ "jas_matrix_resize", "group__seq.html#ga421418f68900779afd998ef397a59b0a", null ],
+    [ "jas_matrix_rowstep", "group__seq.html#gaf2052b0a1e88a74ae2dd4f727110e3b3", null ],
+    [ "jas_matrix_set", "group__seq.html#ga6c052e68016deb7766e39a674837a292", null ],
+    [ "jas_matrix_setall", "group__seq.html#ga246ae42706508a7f197efd8d25f12b5c", null ],
+    [ "jas_matrix_setv", "group__seq.html#ga3ac8a0acd8ffbe5ce928b7fb792b286c", null ],
+    [ "jas_matrix_step", "group__seq.html#gada7abcc603a3dc19086ad10904790268", null ]
+];
